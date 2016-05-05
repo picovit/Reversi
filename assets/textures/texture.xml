@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b4d4fc1410eac2d61cd6b5082312f3a1:cd92f049e038f1911aafcf7527ccab72:42e04a4339dd7f67eaaedb4c05f4e24a$ -->
+<TextureAtlas imagePath="texture.atf" width="1024" height="2048">
+    <SubTexture name="black_chip" x="763" y="303" width="51" height="51"/>
+    <SubTexture name="btn_close" x="852" y="275" rotated="true" width="70" height="67"/>
+    <SubTexture name="btn_shoise" x="763" y="1" rotated="true" width="87" height="300"/>
+    <SubTexture name="btn_start" x="934" y="1" rotated="true" width="79" height="300"/>
+    <SubTexture name="cell" x="852" y="202" width="71" height="71"/>
+    <SubTexture name="chip_substrate" x="852" y="75" rotated="true" width="77" height="75"/>
+    <SubTexture name="current_turn_substrate" x="852" y="1" rotated="true" width="80" height="72"/>
+    <SubTexture name="game_screen_bg" x="1" y="1" width="760" height="675"/>
+    <SubTexture name="map_screen_bg" x="1" y="678" width="760" height="675"/>
+    <SubTexture name="score_substrate" x="852" y="152" width="75" height="48"/>
+    <SubTexture name="white_chip" x="924" y="303" width="51" height="51"/>
+    <SubTexture name="window_small" x="1" y="1355" rotated="true" width="388" height="500"/>
+</TextureAtlas>
